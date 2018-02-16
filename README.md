@@ -1,1 +1,1 @@
-https://codesandbox.io/s/github/codiechanel/sandbox-demo/tree/master/packages/awesome-template
+https://codesandbox.io/s/github/codiechanel/awesome-template
