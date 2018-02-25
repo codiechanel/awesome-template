@@ -38,8 +38,8 @@ div::-webkit-scrollbar-thumb {
   display: flex;
   flex: 1;
   flex-direction: column;
-  overflow-y: auto;
-  overflow-x: hidden;
+  /* overflow-y: auto;
+  overflow-x: hidden; */
   /* background-color: #394a5e; */
 }
 
